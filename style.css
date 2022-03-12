@@ -84,12 +84,12 @@ background: linear-gradient(to bottom, #FFAFBD, #C9FFBF); /* W3C, IE 10+/ Edge, 
 }
 
 .envelope .back .letter p {
-  font-size: 30px;
-  line-height: 20px;
-  content: '\F0278';
+  font-size: 1.2em;
+  line-height: 1.4;
+  font-family: "Nobile";
   /* letter-spacing: 3px; */
   /* color: #ff969f; */
-  color: #121212;
+  color: #000000;
   text-shadow: 2px 7px 5px rgba(0,0,0,0.3), 
     0px -4px 10px rgba(255,255,255,0.3);
 }
